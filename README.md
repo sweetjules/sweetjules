@@ -9,6 +9,7 @@
 ✨ Passionate about blending logic and design to create user-friendly web experiences  
 🍴 I love cooking, creating recipes, reading, and drawing inspiration from anime & design  
 🎯 Goal: Build impactful projects that merge creativity, problem-solving, and technology
+
  📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/julia-owusu-gyawu-ba277625b)  
