@@ -12,7 +12,7 @@
 
  📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/julia-owusu-gyawu-ba277625b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/julia-owusu-gyawu-ba277625b/)  
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/owusugyawujulia)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@julestbr)  
 <!--
