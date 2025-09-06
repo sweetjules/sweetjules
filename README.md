@@ -10,8 +10,9 @@
 🍴 I love cooking, creating recipes, reading, and drawing inspiration from anime & design  
 🎯 Goal: Build impactful projects that merge creativity, problem-solving, and technology
  📫 How to reach me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/julia-owusu-gyawu-ba277625b)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/your-handle)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/owusugyawujulia)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@julestbr)  
 <!--
 **sweetjules/sweetjules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
